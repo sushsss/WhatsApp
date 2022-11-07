@@ -11,5 +11,6 @@ public class Arrayequals {
 		System.out.println(Arrays.equals(a, b));
 		System.out.println(Arrays.equals(c, b));
 		System.out.println(Arrays.equals(a, c));
+		System.out.println("Hello");
 	}
 }
